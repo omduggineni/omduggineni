@@ -8,7 +8,11 @@ Some of the most interesting projects I've worked on are:
 
 Some random stats:
 
-- anuraghazra/github-readme-stats
+- anuraghazra/github-readme-stats (+ an illustration of [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law))
+
+> "When a measure becomes a target, it ceases to be a good measure."
+> - Goodhart's Law
+
 (there may or may not be an extremely-freqently-updated github repository that I use to write my notes in :D)
 
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omduggineni&show_icons=true&layout=compact&theme=dark&count_private=true)
