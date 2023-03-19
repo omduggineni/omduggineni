@@ -10,11 +10,6 @@ Some random stats:
 
 - **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)**
 
-> "When a measure becomes a target, it ceases to be a good measure."
-> - Goodhart's Law
-
-(there may or may not be an extremely-freqently-updated github repository that I use to write my notes in :D)
-
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omduggineni&show_icons=true&layout=compact&theme=dark&count_private=true)
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omduggineni&layout=compact&theme=dark)
