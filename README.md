@@ -12,8 +12,6 @@ Some random stats:
 
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omduggineni&show_icons=true&layout=compact&theme=dark&count_private=true)
 
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omduggineni&layout=compact&theme=dark)
-
 <!--
 **omduggineni/omduggineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
