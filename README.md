@@ -8,7 +8,7 @@ Some of the most interesting projects I've worked on are:
 
 Some random stats:
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
+- **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)**
 
 > "When a measure becomes a target, it ceases to be a good measure."
 > - Goodhart's Law
