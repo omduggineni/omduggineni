@@ -6,6 +6,7 @@ Some of the most interesting projects I've worked on are:
 - [StyleCam](https://github.com/omduggineni/StyleCam): A real-time style transfer app for iOS which makes everything look like a painting.
 - [Pholder](https://devpost.com/software/pholder): An AI-based photo search tool that uses a neural network to allow for semantic search of photos.
 
+<!--
 Some random stats:
 
 - **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)**
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: …
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
+-->
 -->
