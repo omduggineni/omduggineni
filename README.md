@@ -1,4 +1,4 @@
-### Hi there 👋
+### Om Duggineni
 
 <!--...-->
 
@@ -8,6 +8,10 @@ Some of the most interesting projects I've worked on are:
 - [Pholder](https://devpost.com/software/pholder): An AI-based photo search tool that uses a neural network to allow for semantic search of photos.
 
 Please check my [personal website](https://omduggineni.com/#projects) for more projects! There's a detailed list of projects I've worked on in the past here, with links to code, etc.
+
+Some random stats:
+- **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)**
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omduggineni&show_icons=true&layout=compact&theme=dark&count_private=true)
 
 <!--
 Some random stats:
