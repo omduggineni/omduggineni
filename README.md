@@ -9,10 +9,6 @@ Some of the most interesting projects I've worked on are:
 
 Please check my [personal website](https://omduggineni.com/#projects) for more projects! There's a detailed list of projects I've worked on in the past here, with links to code, etc.
 
-Some random stats:
-- **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)**
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omduggineni&show_icons=true&layout=compact&theme=dark&count_private=true)
-
 <!--
 Some random stats:
 
